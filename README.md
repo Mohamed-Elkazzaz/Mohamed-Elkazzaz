@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed-Elkazzaz
 - 👀 I’m interested in Front-End , Back-End
-- 🌱 I’m currently learning  Html , Css , Javascript
+- 🌱 I love Back-end python,Django, Html , Css, Bootstrap  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
